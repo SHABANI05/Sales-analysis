@@ -29,7 +29,7 @@ department performance, and holiday sales patterns and the effect of external fa
 - Store size moderately influences performance.
 - Promotions (MarkDown) positively impact revenue.
 
- ##conclusion:
+ ## Conclusion:
  
 This analysis demonstrates that internal business strategies such as promotions and holiday planning have a stronger impact on sales compared to external economic factors. Retailers can improve performance by focusing on promotional campaigns and optimizing store operations.
 
